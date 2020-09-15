@@ -1,0 +1,37 @@
+﻿生成启动时间为 2020/9/10 星期四 8:24:28。
+     1>项目“C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\template.vcxproj”在节点 2 上(build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(298,5): warning MSB8004: Intermediate 目录未以斜杠结尾。此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output 目录未以斜杠结尾。此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+     1>InitializeBuildStatus:
+         正在创建“C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\VS2010\VC\bin\CL.exe /c /I..\..\common\Include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D AGKWINDOWS /D IDE_VS2008 /D WIN32 /D NDEBUG /D _WINDOWS /D IDE_VS2008 /D _CRT_SECURE_NO_WARNINGS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\\" /Fd"C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\vc100.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt template.cpp
+         template.cpp
+     1>template.cpp(133): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>template.cpp(172): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>template.cpp(173): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>template.cpp(174): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>template.cpp(175): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>template.cpp(176): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>template.cpp(177): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>template.cpp(178): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>template.cpp(179): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>template.cpp(362): warning C4244: “参数”: 从“const int”转换到“float”，可能丢失数据
+     1>template.cpp(441): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>template.cpp(528): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         d:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\platform\windows\Lib\VS2010\Release\ winmm.lib AGKWindows.lib Wininet.lib OpenGL32.lib Glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:atls /MANIFEST /ManifestFile:"C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\Final\template.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.lib" /MACHINE:X86 "C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\Core.obj"
+         "C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.obj"
+         正在生成代码
+         已完成代码的生成
+         template.vcxproj -> C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.exe;#1" /manifest "C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.unsuccessfulbuild”。
+         正在对“C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\\Final\template.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Program Files (x86)\The Game Creators\AGKTrial\IDE\templates\坏秃鹰\template.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.10
